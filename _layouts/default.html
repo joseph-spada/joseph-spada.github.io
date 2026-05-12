@@ -10,16 +10,18 @@ layout: compress
   </head>
   <body>
     {% include browser-upgrade.html %}
+    {% comment %}
     {% include masthead.html %}
+    {% endcomment %}
     {{ content }}
-    <!--
+    {% comment %}
     <div class="page__footer">
       <footer>
         {% include footer/custom.html %}
         {% include footer.html %}
       </footer>
     </div>
-    -->
+    {% endcomment %}
     {% include scripts.html %}
   </body>
 </html>

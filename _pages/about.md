@@ -12,7 +12,7 @@ Prior to beginning my Ph.D., I worked as a research analyst at Stanford Universi
 
 I received a BA in economics and computer science from Middlebury College in 2022, and an MA in the social sciences (concentration in economics) from the University of Chicago in 2024.
 
-### Working Papers
+## Working Papers
 
 ---
 <!--
@@ -27,8 +27,7 @@ Abstract here.
 -->
 
 **Employment Dynamics of $15 Minimum Wage Phase-Ins: Evidence from New Jersey**.  
-Master's Thesis at University of Chicago(https://knowledge.uchicago.edu/record/11944)
-
+[Master's Thesis at the University of Chicago](https://knowledge.uchicago.edu/record/11944)
 <details>
 <summary>Abstract</summary>
 <br>
@@ -38,7 +37,7 @@ In 2019, New Jersey enacted legislation to phase in a \$15 minimum wage, rapidly
 ---
 
 <!--
-### Works in Progress
+## Works in Progress
 
 ---
 
@@ -49,19 +48,19 @@ Another Paper Title.
 ---
 -->
 
-### Research Supported
+## Research Supported
 
 ---
 
 **Firm Investment and the User Cost of Capital: New U.S. Corporate Tax Reform Evidence** (Jonathan Hartley, Kevin Hassett, and Joshua Rauh).  
 Draft [SSRN]([https://link-to-draft.pdf](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5103449))
 Forthcoming in *Tax Policy and the Economy*.
-
 <details>
 <summary>Abstract</summary>
 <br>
 The Tax Cuts and Jobs Act of 2017 (TCJA) marked the first time in three decades that material changes were made to the corporate tax code of the United States. Following the method of Auerbach and Hassett (1991), we use TCJA as a natural experiment to estimate the impact of changes in user cost of capital on investment. Using cross-sectional data, we find that the user cost is associated with higher rates of investment consistent with previous studies. BEA asset types with greater reductions in user cost of capital and marginal effective tax rate (METR) after the 2017 TCJA had greater increases in their investment rates several years after the tax reform, with individually statistically significant coefficients in half of the post-TCJA years. On average across years we find the magnitude of a 1 percentage point decrease in user cost is associated with a statistically significant 1.86 percentage point increase in the rate of investment. This translates into an investment elasticity of-2.11, about three times the investment response assumed in Congressional Budget Office models.
 </details>
+
 
 **Business Incentives and Economic Activity: Evidence from Alabama** (Rebecca Lester, Natalie Millar, and Joshua Rauh).  
 *In Progress*.

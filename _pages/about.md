@@ -24,6 +24,8 @@ Abstract here.
 </details>
 -->
 
+<div class="paper-entry">
+
 [**Employment Dynamics of $15 Minimum Wage Phase-Ins: Evidence from New Jersey**](https://knowledge.uchicago.edu/record/11944)  
 Master's Thesis at the University of Chicago
 <details>
@@ -31,6 +33,7 @@ Master's Thesis at the University of Chicago
 In 2019, New Jersey enacted legislation to phase in a $15 minimum wage, rapidly boosting the state minimum by 71 percent in under five years. I provide one of the first empirical analyses of a wage increase of this nature and introduce a novel empirical design that combines synthetic control with a wage-distribution binning approach. I examine the employment dynamics resulting from five wage increases taking effect between July 2019 and January 2023. Each increase generates missing jobs below the new wage floor and excess jobs above it, with excess jobs dominating and producing temporary boosts in employment. Overall, I find no evidence of a sustained increase or decrease in employment from the phase-in. These findings inform debates on whether gradual phase-ins mitigate concerns about disemployment from large minimum wage hikes.
 </details>
 
+</div>
 
 <!--
 ## Works in Progress

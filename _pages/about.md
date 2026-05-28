@@ -26,7 +26,7 @@ Abstract here.
 
 <div class="paper-entry" markdown="1">
 
-**Employment Dynamics of $15 Minimum Wage Phase-Ins: Evidence from New Jersey**  
+[**Employment Dynamics of $15 Minimum Wage Phase-Ins: Evidence from New Jersey**](/files/nj_minwage_paper.pdf)  
 [Original Master's Thesis, May 2024](https://knowledge.uchicago.edu/record/11944)  
 *Updated draft in preparation*
 <details style="margin-bottom: 1em;">

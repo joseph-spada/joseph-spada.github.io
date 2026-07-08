@@ -40,7 +40,7 @@ In 2019, New Jersey enacted legislation to phase in a $15 minimum wage, rapidly 
 
 <div class="paper-entry" markdown="1">
 
-**Firm-Level Productivity and Fiscal Returns to Customized Job Training** (with Natalie Millar)  
+**Firm-Level Productivity and the Fiscal Returns to Customized Job Training** (with Natalie Millar)  
 
 </div>
 

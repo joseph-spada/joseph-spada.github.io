@@ -6,9 +6,9 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming Ph.D. student in economics at the University of Michigan. I am interested in research at the intersection of labor, public, and urban/spatial economics.
+I'm an incoming Ph.D. student in economics at the University of Michigan. I am interested in research at the intersection of labor, public, and urban/spatial economics.
 
-Prior to beginning my Ph.D., I worked as a research analyst at Stanford University on the State and Local Governance Initiative at the Hoover Institution and the Stanford Initiative for Business, Taxation, and Society (STAX) at the Graduate School of Business. I also worked as an associate at Keystone Strategy in New York, an economics and strategy consulting firm.
+Prior to beginning my Ph.D., I worked as a research analyst at Stanford University on the [State and Local Governance Initiative](https://www.hoover.org/research-teams/state-and-local-governance-initiative) at the Hoover Institution and the [Stanford Initiative for Business, Taxation, and Society (STAX)](https://stax.stanford.edu) at the Graduate School of Business. I also worked as an associate at [Keystone Strategy](https://www.keystone.com) in New York, an economics and strategy consulting firm.
 
 I received a BA in economics and computer science from Middlebury College in 2022, and an MA in the social sciences (concentration in economics) from the University of Chicago in 2024.
 
@@ -27,7 +27,7 @@ Abstract here.
 <div class="paper-entry" markdown="1">
 
 [**Employment Dynamics of $15 Minimum Wage Phase-Ins: Evidence from New Jersey**](/files/nj_minwage_paper.pdf)  
-[Original Master's Thesis, May 2024](https://knowledge.uchicago.edu/record/11944)  
+[Master's Thesis, May 2024](https://knowledge.uchicago.edu/record/11944)  
 *Updated draft in preparation.*
 <details style="margin-bottom: 1em;">
 <summary>Abstract</summary>
@@ -36,23 +36,19 @@ In 2019, New Jersey enacted legislation to phase in a $15 minimum wage, rapidly 
 
 </div>
 
-<!--
 ## Works in Progress
 
----
+<div class="paper-entry" markdown="1">
 
-Paper Title (with [Coauthor](https://coauthor-url.com))
+**Firm-Level Productivity and Fiscal Returns to Customized Job Training** (with Natalie Millar)  
 
-Another Paper Title.
-
----
--->
+</div>
 
 ## Research Supported
 
 <div class="paper-entry" markdown="1">
 
-[**Firm Investment and the User Cost of Capital: New U.S. Corporate Tax Reform Evidence**](https://www.journals.uchicago.edu/doi/abs/10.1086/740382) (Jonathan Hartley, Kevin Hassett, and Joshua Rauh)  
+[**Firm Investment and the User Cost of Capital: New US Corporate Tax Reform Evidence**](https://www.journals.uchicago.edu/doi/abs/10.1086/740382) (Jonathan Hartley, Kevin Hassett, and Joshua Rauh)  
 *Tax Policy and the Economy*, vol. 40, 2026.
 <details style="margin-bottom: 1em;">
 <summary>Abstract</summary>
@@ -63,7 +59,7 @@ The Tax Cuts and Jobs Act of 2017 (TCJA) marked the first time in three decades 
 
 <div class="paper-entry" markdown="1">
 
-**Business Incentives and Economic Activity: Evidence from Alabama** (Rebecca Lester, Natalie Millar, and Joshua Rauh)  
+**Business Incentives and Economic Activity: Evidence from Alabama** (Rebecca Lester), Natalie Millar, and Joshua Rauh)  
 *In progress*.
 
 <!--

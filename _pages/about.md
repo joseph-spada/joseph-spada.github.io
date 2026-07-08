@@ -59,7 +59,7 @@ The Tax Cuts and Jobs Act of 2017 (TCJA) marked the first time in three decades 
 
 <div class="paper-entry" markdown="1">
 
-**Business Incentives and Economic Activity: Evidence from Alabama** (Rebecca Lester), Natalie Millar, and Joshua Rauh)  
+**Business Incentives and Economic Activity: Evidence from Alabama** (Rebecca Lester, Natalie Millar, and Joshua Rauh)  
 *In progress*.
 
 <!--

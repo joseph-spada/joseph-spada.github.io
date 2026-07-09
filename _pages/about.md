@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm an incoming Ph.D. student in economics at the University of Michigan. I am interested in research at the intersection of labor, public, and urban/spatial economics.
+I'm an incoming Ph.D. student in economics at the University of Michigan. I'm interested in research at the intersection of labor, public, and urban/spatial economics.
 
 Prior to beginning my Ph.D., I worked as a research analyst at Stanford University on the [State and Local Governance Initiative](https://www.hoover.org/research-teams/state-and-local-governance-initiative) at the Hoover Institution and the [Stanford Initiative for Business, Taxation, and Society (STAX)](https://stax.stanford.edu) at the Graduate School of Business. I also worked as an associate at [Keystone Strategy](https://www.keystone.com) in New York, an economics and strategy consulting firm.
 

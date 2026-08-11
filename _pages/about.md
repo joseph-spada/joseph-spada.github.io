@@ -12,6 +12,8 @@ Prior to beginning my Ph.D., I worked as a research analyst at Stanford Universi
 
 I received a BA in economics and computer science from Middlebury College in 2022, and an MA in the social sciences (concentration in economics) from the University of Chicago in 2024.
 
+For more information, please see my [CV](/files/spada_cv.pdf).
+
 ## Working Papers
 
 <!--
